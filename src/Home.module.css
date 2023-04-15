@@ -1,0 +1,42 @@
+
+    
+.welcome{
+    margin-left:18em;
+    font-family: 'Times New Roman', Times, serif;
+    color:crimson;
+    font-size:35px;
+    margin-right:13em;
+    /* justify-content:center */
+}
+.home{
+    justify-content:start;
+    margin-left:2em;
+    font-size:30px;
+    color:rgba(43, 61, 226, 0.715);
+}
+.userIcon1{
+    height: 2em;
+    width: 2em;
+    border-radius: 50%;
+    /* border: solid 2px black; */
+    margin-right: 1em;
+    margin-left: 1em;
+}
+.image1{
+    height:30em;
+    width:42em;
+    border-radius:0;
+    margin-left:20em;
+    
+}
+.work{
+    display:flex;
+}
+.work h3{
+    margin:50px;
+    text-align:center;
+    font-size:30px;
+    justify-content:space-between
+}
+
+
